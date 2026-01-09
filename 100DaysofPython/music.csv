@@ -1,0 +1,151 @@
+user_id,country,age_group,genre,artist,song_title,listening_time_minutes,subscription_tier,revenue_generated,timestamp
+U001,USA,18-25,Pop,Taylor Swift,Midnight Rain,3.5,Premium,0.12,2024-01-15
+U002,UK,26-35,Rock,Arctic Monkeys,Do I Wanna Know,4.2,Free,0.02,2024-01-15
+U003,India,18-25,Bollywood,Arijit Singh,Kesariya,5.1,Premium,0.15,2024-01-15
+U004,USA,36-45,Hip-Hop,Drake,Rich Flex,3.8,Premium,0.13,2024-01-16
+U005,Brazil,18-25,Latin,Bad Bunny,Titi Me Pregunto,3.2,Standard,0.08,2024-01-16
+U006,Germany,26-35,Electronic,David Guetta,I'm Good,3.9,Premium,0.14,2024-01-16
+U007,Japan,18-25,J-Pop,Yoasobi,Idol,4.5,Premium,0.16,2024-01-17
+U008,UK,46-55,Rock,Queen,Bohemian Rhapsody,5.9,Standard,0.09,2024-01-17
+U009,India,26-35,Classical,Ravi Shankar,Raga Jog,8.2,Premium,0.18,2024-01-17
+U010,USA,18-25,Pop,Ariana Grande,7 Rings,3.1,Free,0.01,2024-01-18
+U011,France,26-35,Electronic,Daft Punk,Get Lucky,4.7,Premium,0.15,2024-01-18
+U012,Australia,18-25,Rock,AC/DC,Thunderstruck,4.9,Standard,0.10,2024-01-18
+U013,South Korea,18-25,K-Pop,BTS,Dynamite,3.4,Premium,0.14,2024-01-19
+U014,Mexico,36-45,Latin,Luis Miguel,La Incondicional,4.3,Standard,0.08,2024-01-19
+U015,Canada,26-35,Hip-Hop,The Weeknd,Blinding Lights,3.6,Premium,0.13,2024-01-19
+U016,USA,18-25,Country,Luke Combs,Fast Car,3.8,Premium,0.12,2024-01-20
+U017,UK,18-25,Pop,Ed Sheeran,Shape of You,3.9,Standard,0.07,2024-01-20
+U018,India,18-25,Bollywood,Shreya Ghoshal,Chaka Chak,4.2,Free,0.02,2024-01-20
+U019,Spain,26-35,Latin,Rosalia,Despecha,3.7,Premium,0.14,2024-01-21
+U020,Italy,36-45,Classical,Andrea Bocelli,Con Te Partiro,5.5,Premium,0.17,2024-01-21
+U021,USA,18-25,Hip-Hop,Kendrick Lamar,HUMBLE,3.9,Premium,0.13,2024-01-21
+U022,Brazil,18-25,Latin,Anitta,Envolver,3.3,Standard,0.08,2024-01-22
+U023,Germany,26-35,Electronic,Robin Schulz,Sugar,3.8,Premium,0.14,2024-01-22
+U024,Japan,26-35,J-Pop,Kenshi Yonezu,Lemon,4.8,Premium,0.16,2024-01-22
+U025,UK,36-45,Rock,The Beatles,Let It Be,4.1,Standard,0.09,2024-01-23
+U026,India,18-25,Bollywood,Arijit Singh,Tum Hi Ho,4.9,Premium,0.15,2024-01-23
+U027,USA,26-35,Pop,Billie Eilish,Bad Guy,3.2,Premium,0.12,2024-01-23
+U028,South Korea,18-25,K-Pop,Blackpink,Pink Venom,3.5,Premium,0.14,2024-01-24
+U029,France,36-45,Electronic,Justice,D.A.N.C.E,4.2,Standard,0.08,2024-01-24
+U030,Australia,26-35,Rock,Tame Impala,The Less I Know,3.7,Premium,0.13,2024-01-24
+U031,USA,18-25,Pop,Dua Lipa,Levitating,3.4,Free,0.01,2024-01-25
+U032,Canada,26-35,Hip-Hop,Drake,God's Plan,3.6,Premium,0.13,2024-01-25
+U033,Mexico,18-25,Latin,Peso Pluma,Ella Baila Sola,3.8,Standard,0.08,2024-01-25
+U034,UK,26-35,Pop,Harry Styles,As It Was,3.3,Premium,0.12,2024-01-26
+U035,India,26-35,Classical,Zakir Hussain,Tabla Solo,9.5,Premium,0.19,2024-01-26
+U036,Germany,18-25,Electronic,Zedd,Clarity,4.1,Standard,0.08,2024-01-26
+U037,USA,36-45,Country,Carrie Underwood,Before He Cheats,3.9,Premium,0.13,2024-01-27
+U038,Brazil,26-35,Latin,Ludmilla,Maliciosa,3.5,Premium,0.14,2024-01-27
+U039,Japan,18-25,J-Pop,Official HIGE DANdism,Pretender,4.6,Standard,0.09,2024-01-27
+U040,Spain,18-25,Latin,Bad Bunny,Moscow Mule,3.7,Premium,0.14,2024-01-28
+U041,Italy,26-35,Classical,Ludovico Einaudi,Nuvole Bianche,6.2,Premium,0.17,2024-01-28
+U042,USA,18-25,Hip-Hop,Travis Scott,SICKO MODE,5.1,Premium,0.15,2024-01-28
+U043,UK,18-25,Rock,Coldplay,Yellow,4.7,Standard,0.09,2024-01-29
+U044,India,18-25,Bollywood,Diljit Dosanjh,Lover,3.8,Free,0.02,2024-01-29
+U045,South Korea,26-35,K-Pop,Twice,Set Me Free,3.4,Premium,0.14,2024-01-29
+U046,France,18-25,Electronic,Madeon,Shelter,3.9,Premium,0.14,2024-01-30
+U047,Australia,18-25,Rock,5 Seconds of Summer,Youngblood,3.6,Standard,0.08,2024-01-30
+U048,USA,26-35,Pop,Justin Bieber,Peaches,3.3,Premium,0.12,2024-01-30
+U049,Canada,36-45,Hip-Hop,Tory Lanez,The Color Violet,4.2,Standard,0.08,2024-01-31
+U050,Mexico,18-25,Latin,Grupo Frontera,No Se Va,3.9,Premium,0.14,2024-01-31
+U051,Germany,26-35,Electronic,The Chainsmokers,Closer,3.8,Premium,0.14,2024-01-31
+U052,UK,26-35,Pop,Sam Smith,Unholy,3.5,Standard,0.07,2024-02-01
+U053,India,18-25,Bollywood,Badshah,Paagal,3.7,Free,0.02,2024-02-01
+U054,USA,18-25,Country,Morgan Wallen,Last Night,3.6,Premium,0.13,2024-02-01
+U055,Brazil,18-25,Latin,Pabllo Vittar,Sao Amores,3.4,Standard,0.08,2024-02-02
+U056,Japan,26-35,J-Pop,LiSA,Gurenge,4.3,Premium,0.16,2024-02-02
+U057,Spain,26-35,Latin,C Tangana,Demasiadas Mujeres,4.1,Premium,0.14,2024-02-02
+U058,Italy,36-45,Classical,Ennio Morricone,Chi Mai,5.8,Standard,0.09,2024-02-03
+U059,USA,18-25,Hip-Hop,21 Savage,a lot,4.5,Premium,0.15,2024-02-03
+U060,UK,36-45,Rock,Pink Floyd,Comfortably Numb,6.2,Premium,0.17,2024-02-03
+U061,India,26-35,Bollywood,Sunidhi Chauhan,Dhoom Machale,4.1,Standard,0.08,2024-02-04
+U062,South Korea,18-25,K-Pop,Stray Kids,God's Menu,3.8,Premium,0.14,2024-02-04
+U063,France,26-35,Electronic,Kavinsky,Nightcall,4.6,Premium,0.15,2024-02-04
+U064,Australia,26-35,Rock,INXS,Never Tear Us Apart,4.3,Standard,0.09,2024-02-05
+U065,USA,26-35,Pop,Miley Cyrus,Flowers,3.4,Premium,0.12,2024-02-05
+U066,Canada,18-25,Hip-Hop,Nav,Myself,3.9,Standard,0.08,2024-02-05
+U067,Mexico,26-35,Latin,Christian Nodal,Botella Tras Botella,4.2,Premium,0.14,2024-02-06
+U068,Germany,18-25,Electronic,Martin Garrix,Animals,3.7,Premium,0.14,2024-02-06
+U069,UK,18-25,Pop,Dua Lipa,Don't Start Now,3.6,Free,0.01,2024-02-06
+U070,India,18-25,Bollywood,Neha Kakkar,Garmi,3.8,Premium,0.15,2024-02-07
+U071,USA,36-45,Country,Chris Stapleton,Tennessee Whiskey,4.9,Premium,0.15,2024-02-07
+U072,Brazil,26-35,Latin,Ivete Sangalo,Festa,4.1,Standard,0.08,2024-02-07
+U073,Japan,18-25,J-Pop,Ado,Usseewa,3.9,Premium,0.16,2024-02-08
+U074,Spain,18-25,Latin,Rauw Alejandro,Todo De Ti,3.5,Premium,0.14,2024-02-08
+U075,Italy,26-35,Classical,Il Volo,Grande Amore,4.7,Premium,0.17,2024-02-08
+U076,USA,18-25,Hip-Hop,Lil Baby,Freestyle,3.8,Premium,0.13,2024-02-09
+U077,UK,26-35,Rock,Muse,Starlight,4.5,Standard,0.09,2024-02-09
+U078,India,26-35,Classical,Anoushka Shankar,Traces of You,7.8,Premium,0.18,2024-02-09
+U079,South Korea,18-25,K-Pop,NewJeans,Ditto,3.3,Premium,0.14,2024-02-10
+U080,France,18-25,Electronic,DJ Snake,Turn Down for What,3.6,Standard,0.08,2024-02-10
+U081,Australia,18-25,Rock,Jet,Are You Gonna Be My Girl,3.7,Premium,0.13,2024-02-10
+U082,USA,26-35,Pop,The Weeknd,Save Your Tears,3.5,Premium,0.12,2024-02-11
+U083,Canada,26-35,Hip-Hop,PartyNextDoor,Loyal,4.1,Premium,0.13,2024-02-11
+U084,Mexico,18-25,Latin,Natanael Cano,AMG,3.6,Standard,0.08,2024-02-11
+U085,Germany,26-35,Electronic,Disclosure,Latch,4.2,Premium,0.14,2024-02-12
+U086,UK,18-25,Pop,Adele,Easy On Me,4.1,Premium,0.15,2024-02-12
+U087,India,18-25,Bollywood,Armaan Malik,Bol Do Na Zara,4.3,Free,0.02,2024-02-12
+U088,USA,18-25,Country,Kacey Musgraves,Rainbow,3.9,Standard,0.08,2024-02-13
+U089,Brazil,18-25,Latin,Luisa Sonza,Modo Turbo,3.4,Premium,0.14,2024-02-13
+U090,Japan,26-35,J-Pop,Hikaru Utada,First Love,5.2,Premium,0.17,2024-02-13
+U091,Spain,26-35,Latin,Nathy Peluso,Buenos Aires,4.3,Premium,0.14,2024-02-14
+U092,Italy,36-45,Classical,Cecilia Bartoli,Casta Diva,6.8,Premium,0.18,2024-02-14
+U093,USA,18-25,Hip-Hop,Megan Thee Stallion,Savage,3.7,Premium,0.13,2024-02-14
+U094,UK,36-45,Rock,Radiohead,Creep,3.9,Standard,0.09,2024-02-15
+U095,India,18-25,Bollywood,Jubin Nautiyal,Raataan Lambiyan,4.6,Premium,0.15,2024-02-15
+U096,South Korea,26-35,K-Pop,Seventeen,Super,3.6,Premium,0.14,2024-02-15
+U097,France,26-35,Electronic,C2C,Down The Road,4.1,Standard,0.08,2024-02-16
+U098,Australia,26-35,Rock,Sia,Chandelier,3.8,Premium,0.13,2024-02-16
+U099,USA,26-35,Pop,Selena Gomez,Lose You To Love Me,3.4,Premium,0.12,2024-02-16
+U100,Canada,18-25,Hip-Hop,Jessie Reyez,Figures,3.9,Standard,0.08,2024-02-17
+U101,USA,18-25,Pop,Olivia Rodrigo,vampire,3.9,Premium,0.13,2024-02-17
+U102,UK,26-35,Rock,The 1975,Somebody Else,4.2,Premium,0.13,2024-02-17
+U103,India,18-25,Bollywood,Darshan Raval,Tera Zikr,4.1,Free,0.02,2024-02-18
+U104,Germany,18-25,Electronic,Alan Walker,Faded,4.3,Premium,0.14,2024-02-18
+U105,Brazil,26-35,Latin,Tropkillaz,Gorila,3.5,Standard,0.08,2024-02-18
+U106,Japan,18-25,J-Pop,Aimer,Kataomoi,4.7,Premium,0.16,2024-02-19
+U107,Spain,18-25,Latin,Bizarrap,Shakira,3.8,Premium,0.14,2024-02-19
+U108,USA,36-45,Country,Zac Brown Band,Chicken Fried,4.5,Standard,0.09,2024-02-19
+U109,Italy,26-35,Classical,Alessandro Safina,Luna,5.3,Premium,0.17,2024-02-20
+U110,UK,18-25,Pop,Ellie Goulding,Love Me Like You Do,3.7,Premium,0.12,2024-02-20
+U111,India,26-35,Classical,Pandit Shivkumar Sharma,Santoor Recital,8.9,Premium,0.19,2024-02-20
+U112,USA,18-25,Hip-Hop,Cardi B,WAP,3.6,Premium,0.13,2024-02-21
+U113,South Korea,18-25,K-Pop,Itzy,Wannabe,3.4,Premium,0.14,2024-02-21
+U114,France,18-25,Electronic,Gesaffelstein,Pursuit,4.8,Premium,0.15,2024-02-21
+U115,Australia,18-25,Rock,The Veronicas,Untouched,3.5,Standard,0.08,2024-02-22
+U116,Canada,26-35,Hip-Hop,Belly,Might Not,4.2,Premium,0.13,2024-02-22
+U117,Mexico,18-25,Latin,Junior H,Dembow,3.7,Standard,0.08,2024-02-22
+U118,Germany,26-35,Electronic,Paul Kalkbrenner,Sky and Sand,5.1,Premium,0.15,2024-02-23
+U119,UK,26-35,Pop,Jessie J,Price Tag,3.6,Standard,0.07,2024-02-23
+U120,India,18-25,Bollywood,Atif Aslam,Jeena Jeena,4.8,Premium,0.15,2024-02-23
+U121,USA,26-35,Pop,Sabrina Carpenter,Espresso,3.2,Premium,0.12,2024-02-24
+U122,Brazil,18-25,Latin,Mc Kevin,Ela e do Tipo,3.3,Free,0.01,2024-02-24
+U123,Japan,26-35,J-Pop,back number,Suiheisen,4.9,Premium,0.16,2024-02-24
+U124,Spain,26-35,Latin,Alvaro Soler,Sofia,3.8,Premium,0.14,2024-02-25
+U125,Italy,36-45,Classical,Nicola Benedetti,Violin Concerto,7.2,Standard,0.09,2024-02-25
+U126,USA,18-25,Hip-Hop,Roddy Ricch,The Box,3.9,Premium,0.13,2024-02-25
+U127,UK,36-45,Rock,Oasis,Wonderwall,4.4,Premium,0.14,2024-02-26
+U128,India,26-35,Bollywood,Sonu Nigam,Suraj Hua Maddham,5.1,Standard,0.08,2024-02-26
+U129,South Korea,18-25,K-Pop,Enhypen,Bite Me,3.5,Premium,0.14,2024-02-26
+U130,France,26-35,Electronic,SebastiAn,Embody,4.5,Premium,0.15,2024-02-27
+U131,Australia,26-35,Rock,Wolfmother,Joker and the Thief,4.7,Standard,0.09,2024-02-27
+U132,USA,26-35,Pop,SZA,Kill Bill,3.8,Premium,0.13,2024-02-27
+U133,Canada,18-25,Hip-Hop,Tory Lanez,LUV,3.7,Standard,0.08,2024-02-28
+U134,Mexico,26-35,Latin,Calibre 50,El Inmigrante,4.4,Premium,0.14,2024-02-28
+U135,Germany,18-25,Electronic,Felix Jaehn,Ain't Nobody,3.9,Premium,0.14,2024-02-28
+U136,UK,18-25,Pop,Anne-Marie,2002,3.4,Free,0.01,2024-02-29
+U137,India,18-25,Bollywood,Guru Randhawa,Lahore,3.6,Premium,0.15,2024-02-29
+U138,USA,36-45,Country,Blake Shelton,God's Country,3.8,Premium,0.13,2024-02-29
+U139,Brazil,26-35,Latin,Vintage Culture,It Is What It Is,4.2,Standard,0.08,2024-03-01
+U140,Japan,18-25,J-Pop,Mrs. GREEN APPLE,Inferno,4.1,Premium,0.16,2024-03-01
+U141,Spain,18-25,Latin,Becky G,Mamiii,3.5,Premium,0.14,2024-03-01
+U142,Italy,26-35,Classical,Giovanni Allevi,Back to Life,5.9,Premium,0.17,2024-03-02
+U143,USA,18-25,Hip-Hop,Jack Harlow,First Class,3.6,Premium,0.13,2024-03-02
+U144,UK,26-35,Rock,Florence + The Machine,Dog Days Are Over,4.3,Standard,0.09,2024-03-02
+U145,India,26-35,Classical,Hariprasad Chaurasia,Flute Meditation,9.2,Premium,0.19,2024-03-03
+U146,South Korea,18-25,K-Pop,IU,Blueming,3.7,Premium,0.14,2024-03-03
+U147,France,18-25,Electronic,Kungs,This Girl,3.8,Standard,0.08,2024-03-03
+U148,Australia,18-25,Rock,Vance Joy,Riptide,3.6,Premium,0.13,2024-03-04
+U149,USA,26-35,Pop,Post Malone,Circles,3.5,Premium,0.12,2024-03-04
+U150,Canada,26-35,Hip-Hop,Pressa,Attachments,4.1,Premium,0.13,2024-03-04
